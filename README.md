@@ -1,8 +1,7 @@
-### Hi there 👋
+### よおこそ😇
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=mikana0918&theme=nightowl)
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Frontend Development(TypeScript, Vue.js, Nuxt.js)
 - 🌱 I’m currently learning ... TypeScript / AWS / JAMStack 
