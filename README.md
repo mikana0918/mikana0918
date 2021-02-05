@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-**mikana0918/mikana0918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=mikana0918&theme=nightowl)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mikana0918&theme=nightowl)
 
 Here are some ideas to get you started:
 
