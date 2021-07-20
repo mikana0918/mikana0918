@@ -7,11 +7,11 @@
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=mikana0918&theme=nightowl)
 
 
-- 🔭 I’m currently working on ... Frontend Development(TypeScript, Vue.js, Nuxt.js)
-- 🌱 I’m currently learning ... fp javascript / typescript
+- 🔭 I’m currently working on ... Frontend (TypeScript, Vue.js, Nuxt.js)
+- 🌱 I’m currently learning ... functional programming / kubernates / entry level machine learning
 - 👯 I’m looking to collaborate on ... Start-up product dev / toC・D2C product dev
 - 🤔 I’m looking for help with ... Algorithm & Data Structure
-- 💬 Ask me about ... frontend / Music Simulation Game🥺 / E-Commerce dev, operations, and logistics /  
+- 💬 Ask me about ... Japanese culture(Anime, video game) / frontend(arch, testing, build setup, CI/CD) / PHP(Laravel, Cake, WP) / Music Simulation Game🥺 / E-Commerce dev, operations, and logistics
 - 📫 How to reach me: ... vie email
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... love meme
