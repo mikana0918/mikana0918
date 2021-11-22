@@ -8,10 +8,10 @@
 
 
 - 🔭 I’m currently working on ... Frontend (TypeScript, Vue.js, Nuxt.js)
-- 🌱 I’m currently learning ... functional programming / kubernates / entry level machine learning
+- 🌱 I’m currently learning ... blockchain / functional programming / DDD
 - 👯 I’m looking to collaborate on ... Start-up product dev / toC・D2C product dev
 - 🤔 I’m looking for help with ... Algorithm & Data Structure
-- 💬 Ask me about ... Japanese culture(Anime, video game) / frontend(arch, testing, build setup, CI/CD) / PHP(Laravel, Cake, WP) / Music Simulation Game🥺 / E-Commerce dev, operations, and logistics
-- 📫 How to reach me: ... vie email
+- 💬 Ask me about ... Japanese culture(Anime, video game) especially BeatmaniaIIDX
+- 📫 How to reach me: ... vie email?
 - 😄 Pronouns: ... 
-- ⚡ Fun fact: ... love meme
+- ⚡ Fun fact: ... I love BTC
