@@ -15,3 +15,6 @@
 - 📫 How to reach me: ... vie email?
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... I love BTC
+
+## ひとこと
+何かあればお気軽にご連絡ください！ (shogo.kusuhara[at]gmail.com）
