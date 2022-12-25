@@ -32,6 +32,10 @@
   - IaC
     - Terraform
     - AWS CDK for TypeScript
+  - CI/CD
+    - Github Actions
+    - Jenkins
+    - AWS CodePipeline/CodeBuild/CodeDeploy
     
 
 ## hobby & pic
