@@ -15,6 +15,8 @@
     - Vite
     - swc
     - Webpack
+  - Archs
+    - Microfrontend
 ### Backend
   - Langs
     - Golang
