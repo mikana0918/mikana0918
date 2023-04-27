@@ -2,9 +2,14 @@
 
 ![great](https://user-images.githubusercontent.com/49839611/126315099-d43f5009-8c07-4b6c-bbeb-d9a562d096c0.gif)
 
-
-## Status
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=mikana0918&theme=nightowl)
+## What I work on 2023
+- Fullstack TypeScript
+- Rapid Prototyping
+- GraphQL 
+- Full-Text Search with meilisearch
+- Create Data ETL / Simple MapReduce Infras
+- NoSQLs (MongoDB especially)
+- Develop new SaaS product
 
 ## Language
 ### Frontend
@@ -36,7 +41,6 @@
     - Github Actions
     - Jenkins
     - AWS CodePipeline/CodeBuild/CodeDeploy
-    
 
 ## hobby & pic
 - IIDX
@@ -45,3 +49,4 @@
 
 ## ひとこと
 何かあればお気軽にご連絡ください！ (shogo.kusuhara[at]gmail.com）
+
