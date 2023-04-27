@@ -7,6 +7,7 @@
 - Rapid Prototyping
 - GraphQL 
 - Full-Text Search with meilisearch
+- Create Simple WebSite Crawler
 - Create Data ETL / Simple MapReduce Infras
 - NoSQLs (MongoDB especially)
 - Develop new SaaS product
