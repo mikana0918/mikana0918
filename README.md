@@ -46,6 +46,11 @@
 ## hobby & pic
 - IIDX
   - SP: Kaiden / DP: Kaiden
+- Trading
+  - BTC/USDT
+  - ETH/USDT
+  - Nikkei 225 Stocks
+  - Gold
 
 
 ## ひとこと
