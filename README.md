@@ -3,14 +3,14 @@
 ![great](https://user-images.githubusercontent.com/49839611/126315099-d43f5009-8c07-4b6c-bbeb-d9a562d096c0.gif)
 
 ## What I work on 2023
-- Fullstack TypeScript
-- Rapid Prototyping
-- GraphQL 
-- Full-Text Search with meilisearch
-- Create Simple WebSite Crawler
-- Create Data ETL / Simple MapReduce Infras
-- NoSQLs (MongoDB especially)
-- Develop new SaaS product
+- [x] Fullstack TypeScript
+- [x] Rapid Prototyping
+- [x] GraphQL 
+- [x] Full-Text Search with meilisearch
+- [x] Create Simple WebSite Crawler
+- [ ] Create Data ETL / Simple MapReduce Infras
+- [x] NoSQLs (MongoDB especially)
+- [ ] Develop new SaaS product
 
 ## Language
 ### Frontend
