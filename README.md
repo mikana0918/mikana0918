@@ -46,6 +46,8 @@
 ## hobby & pic
 - IIDX
   - SP: Kaiden / DP: Kaiden
+- Skateboarding
+- Poker
 - Trading
   - BTC/USDT
   - ETH/USDT
