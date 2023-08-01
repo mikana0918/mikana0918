@@ -11,6 +11,7 @@
 - [ ] Create Data ETL / Simple MapReduce Infras
 - [x] NoSQLs (MongoDB especially)
 - [ ] Develop new SaaS product
+- [ ] Start my own company
 
 ## Language
 ### Frontend
