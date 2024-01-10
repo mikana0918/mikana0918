@@ -3,6 +3,7 @@ Hello! I'm...
 - Fullstack Typescript nerd
 - Core gamer
 - Sometimes run his company but basically code for most hours
+- Love OSS
 
 ![great](https://user-images.githubusercontent.com/49839611/126315099-d43f5009-8c07-4b6c-bbeb-d9a562d096c0.gif)
 
