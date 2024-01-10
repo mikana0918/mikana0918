@@ -1,6 +1,7 @@
 ### 😇 Hello!世界
 Hello! I'm...
 - Fullstack Typescript nerd
+- Crypto baka
 - Core gamer
 - Sometimes run his company but basically code for most hours
 - Love OSS
