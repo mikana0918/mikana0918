@@ -51,6 +51,8 @@ Hello! I'm...
 - Manga
 - IIDX
   - SP: Kaiden / DP: Kaiden
+- YGO(MasterDuel)
+  - Mathmech deck
 
 ## ひとこと
 何かあればお気軽にご連絡ください！ (shogo.kusuhara[at]gmail.com）
