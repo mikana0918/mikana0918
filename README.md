@@ -57,3 +57,5 @@ Hello! I'm...
 ## ひとこと
 何かあればお気軽にご連絡ください！ (shogo.kusuhara[at]gmail.com）
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mikana0918)](https://github.com/mikana0918)
+
