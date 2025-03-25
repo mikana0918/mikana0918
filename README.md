@@ -47,8 +47,9 @@ Hello! I'm...
     - AWS CodePipeline/CodeBuild/CodeDeploy
 
 ## Hobby
-- Anime
-- Manga
+- Poker
+  - TPC NLH NightStack #3/around 400 players(2023)
+  - Love Turbo live tournament
 - IIDX
   - SP: Kaiden / DP: Kaiden
 - YGO(MasterDuel)
