@@ -54,6 +54,9 @@ Hello! I'm...
   - SP: Kaiden / DP: Kaiden
 - YGO(MasterDuel)
   - Mathmech deck
+  - Fiendsmith
+  - Azamina
+  - Snake-Eye
 
 ## ひとこと
 何かあればお気軽にご連絡ください！ (shogo.kusuhara[at]gmail.com）
