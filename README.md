@@ -1,65 +1,20 @@
-### 😇 Hello!世界
-Hello! I'm...
-- Fullstack Typescript nerd
-- Crypto baka
+## 😇 Hello!世界
+I'm Shogo Kusuhara. Please just call me `Shogo`. (Maybe with -san suffix)  
+I develop my company, my web framework, and client's web/the internet businesses.
+
+- Fullstack Typescript Lover
 - Japanese
-- Core gamer
-- Sometimes run his company but basically code for most hours
-- Love OSS
-- ThinkPad laptop user with dual booted Linux(Ubuntu)/Windows
+- Run custom development company
 
-![great](https://user-images.githubusercontent.com/49839611/126315099-d43f5009-8c07-4b6c-bbeb-d9a562d096c0.gif)
+## Hobby/Interests
+- Create new businesses (Web/Local)
+- Develop new small businesses that run at local
+- Gambling(Legal!)
 
-## What I work on 2024
-- [ ] Scale my company
-- [ ] Publish best products
-- [ ] Deliver the best result for our clients
+## Tweet
+- 2025/11/10: I'm pretty much quitting coding fulltime. Currently I'm focusing on sales and my other businesses other than system development.
+  - However, trying to catch up with AI agent technologies. In my company, we have a bunch of ways to automate coding. Let's talk over lunch.
 
-## Language
-### Frontend
-  - Libs
-    - React.js
-    - Vue.js
-  - Tools
-    - Vite
-    - swc
-    - Webpack
-  - Archs
-    - Microfrontend
-### Backend
-  - Langs
-    - Golang
-    - Kotlin
-    - TypeScript
-    - PHP
-  - Archs
-    - Microservices
-    - Moduler Monolith
-  - Tools
-    - gRPC
-### Infra
-  - IaC
-    - Terraform
-    - AWS CDK for TypeScript
-  - CI/CD
-    - Github Actions
-    - Jenkins
-    - AWS CodePipeline/CodeBuild/CodeDeploy
-
-## Hobby
-- Poker
-  - TPC NLH NightStack #3/around 400 players(2023)
-  - Love Turbo live tournament
-- IIDX
-  - SP: Kaiden / DP: Kaiden
-- YGO(MasterDuel)
-  - Mathmech deck
-  - Fiendsmith
-  - Azamina
-  - Snake-Eye
-
-## ひとこと
-何かあればお気軽にご連絡ください！ (shogo.kusuhara[at]gmail.com）
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mikana0918)](https://github.com/mikana0918)
-
+## Etc
+- Please contact me via: shogo.kusuhara[at]interface-x.org
+- 何かあればお気軽にご連絡ください！ (shogo.kusuhara[at]interface-x.orgm）
